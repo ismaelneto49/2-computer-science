@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0be198b9-c32f-4fe3-9dda-d782c0868d1f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/lab5/Lunr/src/com/matheusgr/apresentacao/ApresentacaoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/Lunr/src/com/matheusgr/apresentacao/ApresentacaoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/Lunr/src/com/matheusgr/apresentacao/ApresentacaoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/Lunr/src/com/matheusgr/apresentacao/ApresentacaoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/Lunr/src/com/matheusgr/lunr/busca/BuscaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/Lunr/src/com/matheusgr/lunr/busca/BuscaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/Lunr/src/com/matheusgr/lunr/busca/BuscaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/Lunr/src/com/matheusgr/lunr/busca/BuscaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/Lunr/src/com/matheusgr/lunr/busca/BuscaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/Lunr/src/com/matheusgr/lunr/busca/BuscaService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/Lunr/src/com/matheusgr/lunr/busca/BuscaSimples.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/Lunr/src/com/matheusgr/lunr/busca/BuscaSimples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/Lunr/src/com/matheusgr/lunr/busca/HistoricoBusca.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/Lunr/src/com/matheusgr/lunr/busca/HistoricoBusca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/Lunr/src/com/matheusgr/lunr/documento/Documento.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/Lunr/src/com/matheusgr/lunr/documento/Documento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/Lunr/src/com/matheusgr/lunr/documento/DocumentoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/Lunr/src/com/matheusgr/lunr/documento/DocumentoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/Lunr/src/com/matheusgr/lunr/documento/DocumentoHtml.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/Lunr/src/com/matheusgr/lunr/documento/DocumentoHtml.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/Lunr/src/com/matheusgr/lunr/documento/DocumentoJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/Lunr/src/com/matheusgr/lunr/documento/DocumentoJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/Lunr/src/com/matheusgr/lunr/documento/DocumentoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/Lunr/src/com/matheusgr/lunr/documento/DocumentoRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/Lunr/src/com/matheusgr/lunr/documento/DocumentoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/Lunr/src/com/matheusgr/lunr/documento/DocumentoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/Lunr/src/com/matheusgr/lunr/documento/DocumentoTexto.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/Lunr/src/com/matheusgr/lunr/documento/DocumentoTexto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/Lunr/src/com/matheusgr/similaridade/SimilaridadeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/Lunr/src/com/matheusgr/similaridade/SimilaridadeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/Lunr/tests/com/matheusgr/lunr/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/Lunr/tests/com/matheusgr/lunr/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/Lunr/tests/com/matheusgr/lunr/BuscaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/Lunr/tests/com/matheusgr/lunr/BuscaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/Lunr/tests/com/matheusgr/lunr/DocumentoExemplos.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/Lunr/tests/com/matheusgr/lunr/DocumentoExemplos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/Lunr/tests/com/matheusgr/lunr/DocumentoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/Lunr/tests/com/matheusgr/lunr/DocumentoTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/lab5/Lunr" />
+  </component>
+  <component name="ProjectId" id="2CwB8pPOKLz3ZJT93LR7fcTmwZP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lab6" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0be198b9-c32f-4fe3-9dda-d782c0868d1f" name="Changes" comment="" />
+      <created>1659703619635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659703619635</updated>
+      <workItem from="1659703626577" duration="29000" />
+    </task>
+    <servers />
+  </component>
+</project>
